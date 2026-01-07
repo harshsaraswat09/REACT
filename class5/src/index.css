@@ -1,0 +1,22 @@
+@import "tailwindcss";
+
+html,body{
+    color: white;
+    background-color: black;
+}
+
+.box{
+    width: 200px;
+    height: 200px;
+    background-color: red;
+}
+
+button{
+    padding: 10px 20px;
+    font-size: 20px;
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+}
