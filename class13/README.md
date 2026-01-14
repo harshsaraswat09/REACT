@@ -1,0 +1,1 @@
+CONTEXT API is used for data centralization
